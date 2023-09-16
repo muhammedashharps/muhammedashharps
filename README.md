@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Way curious of modern day tech  and a passion for coding. 🌟<br><br>💻 Python Enthusiast<br><br>🤖 Chatbot Developer<br><br>🌐 Budding Web Developer<br><br>🕸️ Web Scraping Devotee<br>
+👋Constantly exploring the ever evloving tech universe and have a keen interest in coding. 🌟<br><br>💻 Python Enthusiast<br><br>🤖 Chatbot Developer<br><br>🌐 Budding Web Developer<br><br>🕸️ Web Scraping Devotee<br>
 
 
 ## 🌐 Socials:
